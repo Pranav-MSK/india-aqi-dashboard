@@ -88,3 +88,10 @@ python scripts/prepare_data.py
 ```
 
 The cleaned `aqi_metro.csv` will be saved to the `data/` folder, ready to load into Tableau.
+
+---
+
+## Author
+- Name: Pranav M S Krishnan
+- Github: [Pranav-MSK](github.com/Pranav-MSK)
+- Tableau Public: [Visit my Profile](.tableau.com/app/profile/pranav.m.s.krishnan)
